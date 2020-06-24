@@ -4,3 +4,8 @@ A Word Analyzer that will analyze any words & determine the number of consonants
 2. User will click on the button that has 'Analyze' to analyze the words that have been inserted.
 3. The input will be checked if it has vowels, consonants.
 4. User will also know the total number of characters/words that has been inserted in the box input given.
+
+INFO 4302
+Class Activity - Developing React Native App.
+
+Hazirah Haris (1714158)
